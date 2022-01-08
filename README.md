@@ -1,4 +1,4 @@
-### Hi there, I'm Freddy - aka [codeSTACKr][] 👋 
+### Hi there, I'm Freddy - [website] 👋 
 
 [![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](https://rangeltechworks.com)
 
