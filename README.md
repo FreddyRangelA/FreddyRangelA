@@ -1,7 +1,5 @@
 ### Hi there, I'm [Freddy Rangel][website] 👋 
 
-[![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](http://rangeltechworks.com/) 
-
 
 ## I'm a Mechanical Designer Python enthusiast and just a regular every day ... mam!
 
@@ -45,7 +43,7 @@
 
   <img align="left" alt="FreddyRangelA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FreddyRangelA&show_icons=true&hide_border=true&theme=github_dark" />
   <img align="left" alt="FreddyRangelA's GitHub Stats top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=FreddyRangelA&show_icons=true&hide_border=true&theme=github_dark" />
-  <img align="left" alt="FreddyRangelA's extra pins" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyRangelA&repo=github-readme-stats" />
+  
 
 </details>
 
