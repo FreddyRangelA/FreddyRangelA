@@ -1,4 +1,4 @@
-### Hi there, I'm Freddy - [FreddyRangel][website] 👋 
+### Hi there, I'm  [FreddyRangel][website] 👋 
 
 [![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](https://rangeltechworks.com)
 
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="FreddyRangelA's GitHub Stats" src="https://github-readme-stats.FreddyRangelA.vercel.app/api?username=FreddyRangelA&show_icons=true&hide_border=true" />
 
 </details>
 
