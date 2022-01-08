@@ -41,7 +41,7 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddyRangelA)](https://github.com/FreddyRangelA/github-readme-stats)
+  [![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddyRangelA)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="left" alt="FreddyRangelA's GitHub Stats" src="https://github-readme-stats.FreddyRangelA.vercel.app/api?username=FreddyRangelA&show_icons=true&hide_border=true" />
 
