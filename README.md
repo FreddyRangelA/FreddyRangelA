@@ -45,7 +45,7 @@
 
   <img align="left" alt="FreddyRangelA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FreddyRangelA&show_icons=true&hide_border=true&theme=github_dark" />
   <img align="left" alt="FreddyRangelA's GitHub Stats top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=FreddyRangelA&show_icons=true&hide_border=true&theme=github_dark" />
-  <img align="left" alt="FreddyRangelA's extra pins" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyRangelA&repo=github-readme-stats&show_icons=true&hide_border=true&theme=github_dark" />
+  <img align="left" alt="FreddyRangelA's extra pins" src="https://github-readme-stats.vercel.app/api/pin/?username=FreddyRangelA&repo=github-readme-stats" />
 
 </details>
 
