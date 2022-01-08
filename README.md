@@ -1,4 +1,4 @@
-### Hi there, I'm  [FreddyRangel][website] 👋 
+### Hi there, I'm [Freddy Rangel][website] 👋 
 
 [![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](https://rangeltechworks.com)
 
@@ -53,7 +53,7 @@
 [instagram]: https://www.instagram.com/freddy31_ag/
 [linkedin]: https://linkedin.com/in/freddy-rangel-arguelles
 
-
+---
 
 <!--
 **FreddyRangelA/FreddyRangelA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
