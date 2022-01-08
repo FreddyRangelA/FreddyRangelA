@@ -44,15 +44,16 @@
   [![Freddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreddyRangelA)](https://github.com/anuraghazra/github-readme-stats)
 
   <img align="left" alt="FreddyRangelA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FreddyRangelA&show_icons=true&hide_border=true" />
+  <img align="left" alt="FreddyRangelA's GitHub Stats top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=FreddyRangelA&show_icons=true&hide_border=true" />
 
 </details>
-
+---
 [website]: https://rangeltechworks.com
 
 [instagram]: https://www.instagram.com/freddy31_ag/
 [linkedin]: https://linkedin.com/in/freddy-rangel-arguelles
 
----
+
 
 <!--
 **FreddyRangelA/FreddyRangelA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
