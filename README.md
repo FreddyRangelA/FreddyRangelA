@@ -1,6 +1,6 @@
 ### Hi there, I'm [Freddy Rangel][website] 👋 
 
-[![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](https://rangeltechworks.com)
+[![Website](https://img.shields.io/website?label=rangeltechworks.com&style=for-the-badge&url=https%3A%2F%2Frangeltechworks.com)](http://rangeltechworks.com)
 
 
 ## I'm a Mechanical Designer Python enthusiast and just a regular every day ... mam!
@@ -38,7 +38,7 @@
 <br />
 <br />
 
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   
@@ -48,7 +48,7 @@
 
 </details>
 
-[website]: https://rangeltechworks.com
+[website]: http://rangeltechworks.com
 
 [instagram]: https://www.instagram.com/freddy31_ag/
 [linkedin]: https://linkedin.com/in/freddy-rangel-arguelles
